@@ -1,4 +1,4 @@
-package algorithm.c01;
+package c01;
 
 public class ex13 {
     public static void transposedMatrix(int[][] matrix)

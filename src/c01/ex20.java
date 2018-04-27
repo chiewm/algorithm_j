@@ -1,4 +1,4 @@
-package algorithm.c01;
+package c01;
 
 public class ex20 {
     public static double ln(int N) {

@@ -1,4 +1,4 @@
-package algorithm.c01;
+package c01;
 
 import java.util.Arrays;
 
